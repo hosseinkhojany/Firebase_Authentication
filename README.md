@@ -1,2 +1,5 @@
-# RapCloud
-This repo is personal project about Persian rap
+# Firebase Authentication
+Firebase Authentication Examples:
+ -Firebase Email/Password
+ -Google Quick SignIn
+ -Firebase Email/Dynamic Link Validation
