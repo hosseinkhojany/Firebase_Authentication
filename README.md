@@ -2,7 +2,7 @@
 Firebase Authentication Examples:</br>
  -Firebase Email/Password</br>
  -Google Quick SignIn</br>
- -Firebase Email/Dynamic Link Validation
-Clean architecture
-MVVM (Coroutine + Flow)
+ -Firebase Email/Dynamic Link Validation</br>
+Clean architecture</br>
+MVVM (Coroutine + Flow)</br>
 Jetpack Navigation Component
