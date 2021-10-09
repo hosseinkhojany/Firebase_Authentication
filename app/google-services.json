@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14420660849",
+    "firebase_url": "https://powerlifter-shahbaz-com.firebaseio.com",
+    "project_id": "powerlifter-shahbaz-com",
+    "storage_bucket": "powerlifter-shahbaz-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14420660849:android:9d8d2c77a3e22a049041d0",
+        "android_client_info": {
+          "package_name": "adams.sheek.rapcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14420660849-19khaa1n8gfuoctar3jlura9o2jtq13k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "adams.sheek.rapcloud",
+            "certificate_hash": "0254b51648f5c4c363175b60f850132effd7e96e"
+          }
+        },
+        {
+          "client_id": "14420660849-jr0rd9erkf0fh61tmjqis5lttete3k5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkby3KcnU5RxdP1g1ORuHqhiVbTuxTqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14420660849-jr0rd9erkf0fh61tmjqis5lttete3k5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
